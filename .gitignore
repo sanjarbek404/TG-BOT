@@ -1,0 +1,6 @@
+node_modules/
+.env
+logs.json
+users.json
+test_history.json
+pending_users.json
